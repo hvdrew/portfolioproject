@@ -1,0 +1,92 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+.selfportrait {
+	border-radius: 50%;
+}
+
+.main_head {
+	padding: 16%;
+	background-image: url('https://s14.postimg.org/6txnr8b9t/photo_1462332420958_a05d1e002413_compressor.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #ecf0f1;
+}
+
+.main_title {
+	font-size: 7.5vw;
+}
+
+.sub_title {
+	font-size: 3vw;
+}
+
+.spacer {
+	padding-top: 30px;
+	padding-bottom: 20px;
+	background-color: #222222;
+	width: 100vw;
+}
+.about_section {
+	padding-top: 2vw;
+	padding-bottom: 20px;
+	font-size: 2vw;
+}
+
+.about_title {
+	font-size: 4vw;
+	padding-bottom: 2vw;
+}
+.hr1 {
+	border-color: #222222;
+}
+.icon {
+	font-size: 100px;
+}
+
+.icon_div {
+	padding-top: 3vw;
+	padding-bottom: 3vw;
+}
+
+.portfolio_pics {
+	padding: 50px;
+}
+
+.portfolio_title {
+	font-size: 4vw;
+	padding-top: 2vw;
+	padding-bottom: 2vw;
+}
+
+.portfolio_section {
+	padding-bottom: 20px
+}
+
+.contact_title {
+	font-size: 4vw;
+	padding: 2vw;
+}
+
+.social {
+	font-size: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.contact-section {
+	padding-bottom: 15px;
+}
+
+.footer {
+	color: white;
+	font-size: 12px;
+	background-color: #222222;
+	padding-top: 17.5px;
+	padding-bottom: 8px;
+	text-align: right;
+	width: 100vw;
+}
